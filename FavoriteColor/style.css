@@ -1,17 +1,19 @@
 body {
-    background-color: rgb(243, 169, 191);
+  background-color: rgb(243, 169, 191);
 
-     font-family: verdana, sans-serif;
+
+   font-family: verdana, sans-serif;
 }
 
+ 
+h1 { color: rgb(240, 110, 120); }  /* Sets color for all H1 headings */
+h1 {font-family: Brush Script MT, sans-serif;}
 
-   
-  
-  h1 { color: rgb(240, 110, 120); }  /* Sets color for all H1 headings */
-  h1 {font-family: Brush Script MT, sans-serif;}
 
-  h2 {font-family: Garamond, sans-serif;}
-  h2 { color: rgb(211, 84, 116); } /* Defines a class for pink text */
+h2 {font-family: Garamond, sans-serif;}
+h2 { color: rgb(211, 84, 116); } /* Defines a class for pink text */
 
-  h3 {font-family: Courier, sans-serif;}
-  h3 { color: rgb(255, 91, 132); } /* Defines a class for pink text */
+
+h3 {font-family: Courier, sans-serif;}
+h3 { color: rgb(255, 91, 132); } /* Defines a class for pink text */
+
